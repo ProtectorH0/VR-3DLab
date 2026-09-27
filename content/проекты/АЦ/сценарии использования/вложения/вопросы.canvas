@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"6a38c4b7103ddfb1","x":-460,"y":-65,"width":505,"height":230,"type":"text","text":"**место**: (на закрытом правом переднем отсеки)\n**Вопрос:** (находится ли в даном отсеки водосборник)\n**Ответы**\n- да\n- нет"},
+		{"id":"82a16fd7aea4acd6","type":"text","text":"**место**: (Развлетвление)\n**Вопрос:** (Выходной диамет ?)\n**Ответы**\n- 55\n- 70\n- 80","x":685,"y":-65,"width":505,"height":230},
+		{"id":"c885bc1a8df4b54b","type":"text","text":"**место**: (Развлетвление)\n**Вопрос:** (Данное ПТВ храниться в среднем левом отсеки?)\n**Ответы**\n- да\n- нет","x":140,"y":-65,"width":505,"height":230},
+		{"id":"11972ccd83662cea","x":-394,"y":-183,"width":373,"height":72,"type":"text","text":"по отсеку наличие или отсутвие ПТВ"},
+		{"id":"23854424eb32d7b3","x":-333,"y":-294,"width":250,"height":60,"type":"text","text":"панарамы"},
+		{"id":"175eb4746f6f75f5","x":520,"y":-264,"width":307,"height":123,"type":"text","text":"Вопрсы по ПТВ (ТТХ)\nили\nгде находится"},
+		{"id":"a145f298dc6e66c5","x":549,"y":-380,"width":250,"height":60,"type":"text","text":"Скин АЦ"},
+		{"id":"0b62582f4ce063aa","x":549,"y":-500,"width":250,"height":60,"type":"text","text":"3д модель"}
+	],
+	"edges":[
+		{"id":"9ebf02fe5bc499c0","fromNode":"23854424eb32d7b3","fromSide":"bottom","toNode":"11972ccd83662cea","toSide":"top"},
+		{"id":"1e10256c8ee55fd9","fromNode":"11972ccd83662cea","fromSide":"bottom","toNode":"6a38c4b7103ddfb1","toSide":"top"},
+		{"id":"510d22a837f56976","fromNode":"a145f298dc6e66c5","fromSide":"bottom","toNode":"175eb4746f6f75f5","toSide":"top"},
+		{"id":"be9d346898c48e10","fromNode":"175eb4746f6f75f5","fromSide":"bottom","toNode":"c885bc1a8df4b54b","toSide":"top"},
+		{"id":"c62ad1151aed087c","fromNode":"175eb4746f6f75f5","fromSide":"bottom","toNode":"82a16fd7aea4acd6","toSide":"top"},
+		{"id":"e570006166b99f95","fromNode":"0b62582f4ce063aa","fromSide":"bottom","toNode":"a145f298dc6e66c5","toSide":"top"}
+	]
+}

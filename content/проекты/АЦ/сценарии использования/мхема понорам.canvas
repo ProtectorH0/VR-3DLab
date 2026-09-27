@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"0d3570d7985f7575","type":"text","text":"З-кп","x":-125,"y":-30,"width":103,"height":50,"color":"4"},
+		{"id":"fc5bbcf917e9b847","type":"text","text":"З-кз","x":-125,"y":120,"width":103,"height":50,"color":"4"},
+		{"id":"c0550d115c8041c2","type":"text","text":"З-пс","x":300,"y":60,"width":120,"height":60,"color":"1"},
+		{"id":"2b199b604b1ef434","type":"text","text":"З-пз","x":300,"y":360,"width":120,"height":60,"color":"1"},
+		{"id":"d41f1b7237130108","type":"text","text":"З-пп","x":300,"y":-280,"width":120,"height":50,"color":"1"},
+		{"id":"a39c279ae6365318","type":"text","text":"З-лп","x":-580,"y":-260,"width":120,"height":50,"color":"1"},
+		{"id":"f9ea8b789452a5ba","type":"text","text":"З-лз","x":-580,"y":335,"width":120,"height":50,"color":"1"},
+		{"id":"e322007e5ea847aa","type":"text","text":"З-лс","x":-580,"y":65,"width":120,"height":50,"color":"1"},
+		{"id":"1bfac17911fcdaa3","type":"text","text":"О-пс","x":60,"y":60,"width":120,"height":50,"color":"3"},
+		{"id":"522ca09553ecec03","type":"text","text":"О-пп","x":60,"y":-120,"width":120,"height":50,"color":"3"},
+		{"id":"7515788a8a898085","type":"text","text":"О-пз","x":60,"y":260,"width":120,"height":50,"color":"3"},
+		{"id":"036a08130699966c","type":"text","text":"О-лс","x":-320,"y":60,"width":120,"height":50,"color":"3"},
+		{"id":"9e86d943fdf3d821","type":"text","text":"О-лп","x":-320,"y":-120,"width":120,"height":50,"color":"3"},
+		{"id":"21637fa9ab49ef36","type":"text","text":"О-лз","x":-320,"y":260,"width":120,"height":50,"color":"3"},
+		{"id":"1eb0300d11e3a1f9","type":"text","text":"О-н","x":-133,"y":340,"width":120,"height":50,"color":"3"},
+		{"id":"fd4ce30f5ff4bd91","type":"text","text":"О-квод","x":-133,"y":-260,"width":120,"height":50,"color":"3"},
+		{"id":"261885d1bcb86130","type":"text","text":"О-кб","x":-133,"y":-145,"width":120,"height":50,"color":"3"},
+		{"id":"f83fdd7f07073725","type":"text","text":"З-п","x":-133,"y":-440,"width":120,"height":50,"color":"1"},
+		{"id":"5a08c7d983cbe926","type":"text","text":"З-н","x":-133,"y":520,"width":120,"height":50,"color":"1"}
+	],
+	"edges":[]
+}
